@@ -1,8 +1,10 @@
-# WS303U-B1
+# WS303U
 Ultrasonic Wind Speed and Direction Sensor, 
 
-Sensor Output Signal Options 
+Available Models 
 
-* 4 -20mA Interface
-* 0 - 5V Analog
-* RS485 / Modbus RTU
+* WS303U-B1 : 4 -20mA Interface
+* WS303U-B1 : 0 - 5V Analog
+* WS303U-B1 : RS485 / Modbus RTU
+
+https://www.robotics.org.za/sentec
